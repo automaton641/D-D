@@ -47,3 +47,5 @@ margin_left = 974.0
 margin_right = 1024.0
 margin_bottom = 24.0
 text = "Enviar"
+
+[node name="CanvasLayer" type="CanvasLayer" parent="."]

@@ -9,6 +9,7 @@ func main():
 	var mensaje_opciones = "\nLo primero es escojer a tu personaje"
 	buffer_salida.add_text(mensaje_bienvenida)
 	buffer_salida.add_text(mensaje_opciones)
+	
 
 # Called when the node enters the scene tree for the first time.
 func _ready():
